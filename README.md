@@ -1,9 +1,11 @@
 # 🌿 Canopy Analysis & 🗺️ Map Tiles
 
 ##  Live Demo
-- **Canopy Analysis App** →  https://canopy-analysis.onrender.com/
-- 
-- **Map Tiles App** → https://map-tiles.onrender.com/
+- **Canopy Analysis Link** →  https://canopy-analysis.onrender.com/
+     ####  Right now the training accuracy is 40% .accuracy will improve as we add more training data
+
+      
+- **Map Tiles Link** → https://map-tiles.onrender.com/
 
 
 ##  GitHub Repositories
