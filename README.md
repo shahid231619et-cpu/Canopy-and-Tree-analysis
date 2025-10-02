@@ -20,6 +20,9 @@
 4. View the results: canopy height map, tree detection, and summary stats.
 ---
 
+## Result
+https://github.com/shahid231619et-cpu/Canopy-and-Tree-analysis/blob/main/canopy.PNG
+
 
 # 🌲 Canopy Height Analysis Model Overview
 
